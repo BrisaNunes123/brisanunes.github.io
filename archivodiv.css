@@ -1,0 +1,19 @@
+div{
+    width: 200px;
+    background-image:url("Torre\ eiffel.webp") ;
+    border: 3px dashed darksalmon;
+    background-size: cover;
+}
+div:Hover{
+    width: 200px;
+    background-image:url("torre\ eiffel\ 2.jpg");
+    border: 3px dashed cornflowerblue;
+    background-size: contain;
+}
+a:visited{
+    color: pink;
+
+}
+a:hover{
+    color:orange
+}
